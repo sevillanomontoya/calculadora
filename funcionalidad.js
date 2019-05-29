@@ -1,7 +1,7 @@
 var operandoa;
 var operandob;
 var operacion;
-
+//esta funcion inicializa los botones
 function init() {
     var resultado = document.getElementById('resultado');
     var reset = document.getElementById('reset');
